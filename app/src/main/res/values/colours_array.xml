@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colours_value">
+        <item name="red">#ea4e3d</item>
+        <item name="orange">#f09836</item>
+        <item name="yellow">#f8cc46</item>
+        <item name="green">#5cc164</item>
+        <item name="light_blue">#64aaec</item>
+        <item name="blue">#2b7cf5</item>
+        <item name="navy">#545ace</item>
+        <item name="maroon">#d9516c</item>
+        <item name="purple">#b57dd5</item>
+        <item name="brown">#988566</item>
+        <item name="light_black">#5c656e</item>
+        <item name="light_pink">#d0a79f</item>
+    </string-array>
+
+    <string-array name="colours_entries">
+        <item>"red"</item>
+        <item>"orange"</item>
+        <item>"yellow"</item>
+        <item>"green"</item>
+        <item>"light_blue"</item>
+        <item>"blue"</item>
+        <item>"navy"</item>
+        <item>"maroon"</item>
+        <item>"purple"</item>
+        <item>"brown"</item>
+        <item>"light_black"</item>
+        <item>"light_pink"</item>
+    </string-array>
+</resources>

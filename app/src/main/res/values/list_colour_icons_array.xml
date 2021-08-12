@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="list_colour_icons_array">
+        <item name="red_icon">@drawable/red_circle</item>
+        <item name="red_icon">@drawable/orange_circle</item>
+        <item name="red_icon">@drawable/yellow_circle</item>
+        <item name="red_icon">@drawable/green_circle</item>
+        <item name="red_icon">@drawable/light_blue_circle</item>
+        <item name="red_icon">@drawable/blue_circle</item>
+        <item name="red_icon">@drawable/navy_circle</item>
+        <item name="red_icon">@drawable/maroon_circle</item>
+        <item name="red_icon">@drawable/purple_circle</item>
+        <item name="red_icon">@drawable/brown_circle</item>
+        <item name="red_icon">@drawable/light_black_circle</item>
+        <item name="red_icon">@drawable/light_pink_circle</item>
+    </integer-array>
+</resources>

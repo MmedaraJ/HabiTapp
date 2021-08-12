@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#f2f1f5</color>
+    <color name="light_grey">#e4e3e9</color>
+    <color name="smooth_grey">#e4e3e5</color>
+    <color name="smooth_dark_grey">#b6b5b7</color>
+    <color name="icon_grey">#454545</color>
+    <color name="s_grey">#f4f4f4</color>
+    <color name="done_grey">#c1c1c1</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="dark_grey">#8B8B8B</color>
+    <color name="very_dark_grey">#353535</color>
+    <color name="transparent">#002b7cf5</color>
+
+    <!--for array-->
+    <color name="red">#ea4e3d</color>
+    <color name="orange">#f09836</color>
+    <color name="yellow">#f8cc46</color>
+
+    <color name="green">#5cc164</color>
+    <color name="light_blue">#64aaec</color>
+    <color name="blue">#2b7cf5</color>
+
+    <color name="navy">#545ace</color>
+    <color name="maroon">#d9516c</color>
+    <color name="purple">#b57dd5</color>
+
+    <color name="brown">#988566</color>
+    <color name="light_black">#5c656e</color>
+    <color name="light_pink">#d0a79f</color>
+
+</resources>

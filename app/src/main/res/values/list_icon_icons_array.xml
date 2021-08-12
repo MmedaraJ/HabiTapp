@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="list_icon_icons_array">
+        <item name="icon_1_1_list">@drawable/icon_1_1_list</item>
+        <item name="icon_1_1_list">@drawable/icon_1_2_bookmark</item>
+        <item name="icon_1_1_list">@drawable/icon_1_3_key</item>
+        <item name="icon_1_1_list">@drawable/icon_1_4_gift</item>
+        <item name="icon_1_1_list">@drawable/icon_1_5_cake</item>
+        <item name="icon_1_1_list">@drawable/icon_1_6_smile</item>
+        <item name="icon_1_1_list">@drawable/icon_2_1_grad_hat</item>
+        <item name="icon_1_1_list">@drawable/icon_2_2_backpack</item>
+        <item name="icon_1_1_list">@drawable/icon_2_3_pencil</item>
+        <item name="icon_1_1_list">@drawable/icon_2_4_page</item>
+        <item name="icon_1_1_list">@drawable/icon_2_5_open_book</item>
+        <item name="icon_1_1_list">@drawable/icon_2_6_folder</item>
+    </integer-array>
+</resources>
